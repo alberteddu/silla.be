@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/alberteddu/pine-core"
+        }
+    ],
+    "require": {
+        "alberteddu/pine-core": "*@dev"
+    },
+    "minimum-stability": "dev"
+}

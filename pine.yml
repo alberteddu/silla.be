@@ -1,3 +1,5 @@
 content: content
-theme: pine
+theme: pine # via pine-core plugin
 build: build
+plugins:
+  - "\\Pine\\Plugin\\PineCore\\PineCorePlugin"
